@@ -9,6 +9,7 @@ h1 {
   line-height: 1em;
   font-family: 'Slackey';
   color: aqua;
+  /* cursor: pointer; */
 }
 
 h2 {
