@@ -1,4 +1,4 @@
-var audio;
+let audio;
 function playRandom() {
   var queenUrls = [
     "blairStClair",
